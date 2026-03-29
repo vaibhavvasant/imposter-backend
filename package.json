@@ -1,0 +1,26 @@
+{
+  "name": "imposter-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Imposter game (Groq proxy + word generation)",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node --watch server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "imposter",
+    "game",
+    "api",
+    "groq",
+    "backend"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^16.6.1",
+    "express": "^5.2.1",
+    "node-fetch": "^3.3.2"
+  }
+}
