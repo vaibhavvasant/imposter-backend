@@ -79,7 +79,7 @@ CRITICAL RULES (STRICTLY ENFORCED):
 
 4. HINT RULES:
 - Exactly N hints
-- Each hint is 1–3 words
+- Each hint is 1 word
 - Must relate to the word
 - Must NOT contain or reveal the word
 - Must NOT be too obvious
